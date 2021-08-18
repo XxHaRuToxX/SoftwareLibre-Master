@@ -1,0 +1,2 @@
+# proyectoSoftwareLibre
+Sistema de Inventario
